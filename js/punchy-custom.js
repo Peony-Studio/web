@@ -116,7 +116,7 @@ $(function() {
       fullpage             = $('#fullpage');
       if (fullpage.length) {
         fullpage.fullpage({
-          anchors: ['main', 'about', 'features', 'morefeatures', 'portfolio', 'blockquote', 'contact'],
+          anchors: ['main', 'about', 'features', 'morefeatures', 'portfolio', 'moreportfolio', 'blockquote', 'contact'],
           menu: '#menu',
           responsiveWidth: 1200,
           navigation: false,
@@ -127,7 +127,7 @@ $(function() {
 
       if (fullpageNormalScroll.length) {
         fullpageNormalScroll.fullpage({
-          anchors: ['main', 'about', 'features', 'morefeatures', 'blockquote', 'portfolio', 'contact'],
+          anchors: ['main', 'about', 'features', 'morefeatures', 'blockquote', 'portfolio', 'moreportfolio', 'contact'],
           menu: '#menu',
           responsiveWidth: 1183,
           navigation: false,
