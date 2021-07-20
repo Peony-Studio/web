@@ -1359,7 +1359,7 @@ blockquote cite span {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
-  background-color: #242d70;
+  background-color: #c772c7;
 }
 
 .menu-trigger span::before, .menu-trigger span::after {
@@ -1373,7 +1373,7 @@ blockquote cite span {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
-  background-color: #242d70;
+  background-color: #c772c7;
 }
 
 .menu-trigger span::before {
@@ -1760,7 +1760,7 @@ ul.menu-socials li a {
   display: block;
   position: relative;
   font-size: 2rem;
-  color: #c772c7;
+  color: #817081;
   /* color: rgba(39, 47, 124, 0.8); */
   padding: 1rem;
   -webkit-transition: all .3s ease-in-out;
