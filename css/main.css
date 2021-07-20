@@ -1708,7 +1708,8 @@ ul.menu li a {
   font: normal 700 3rem/1.1 "Pattaya", sans-serif;
   letter-spacing: -.02em;
   padding: 1.2rem 0;
-  color: rgba(39, 47, 124, 0.8);
+  /* color: rgba(39, 47, 124, 0.8); */
+  color: #c772c7;
   text-decoration: none;
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
