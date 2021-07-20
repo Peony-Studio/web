@@ -232,7 +232,7 @@ section {
 }
 
 .turquoiseblue {
-  fill: #67F2E0;
+  fill: #8a218a;
 }
 
 .midnightblue {
@@ -1317,7 +1317,7 @@ blockquote cite span {
 }
 
 .menu-btn-morphing-path {
-  fill: #ffaca3;
+  fill: #8a218a;
   -webkit-transition: fill .5s ease-in-out;
   -o-transition: fill .5s ease-in-out;
   -moz-transition: fill .5s ease-in-out;
@@ -1359,7 +1359,7 @@ blockquote cite span {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
-  background-color: #c772c7;
+  background-color: #fff;
 }
 
 .menu-trigger span::before, .menu-trigger span::after {
@@ -1373,7 +1373,7 @@ blockquote cite span {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
-  background-color: #c772c7;
+  background-color: #fff;
 }
 
 .menu-trigger span::before {
