@@ -1760,7 +1760,8 @@ ul.menu-socials li a {
   display: block;
   position: relative;
   font-size: 2rem;
-  color: rgba(39, 47, 124, 0.8);
+  color: #c772c7;
+  /* color: rgba(39, 47, 124, 0.8); */
   padding: 1rem;
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
