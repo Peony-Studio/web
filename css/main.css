@@ -223,7 +223,8 @@ section {
 }
 
 .bg-dark {
-  background-color: #272F7C;
+  /* background-color: #a000a0; */
+  background-color: #a000a0;
 }
 
 .sundown {
@@ -235,7 +236,7 @@ section {
 }
 
 .midnightblue {
-  fill: #272F7C;
+  fill: #a000a0;
 }
 
 .white {
@@ -347,7 +348,7 @@ h2 {
   line-height: 1;
   font-weight: 700;
   font-size: 4.8rem;
-  color: #272F7C;
+  color: #a000a0;
   letter-spacing: -0.025em;
   text-rendering: optimizeLegibility;
 }
@@ -413,7 +414,7 @@ h2 {
 
 .additional-title {
   font: normal 700 2.8rem/1.2 "Pattaya", sans-serif;
-  color: #272F7C;
+  color: #a000a0;
   letter-spacing: -0.025em;
 }
 
@@ -443,7 +444,7 @@ h3 {
   font-size: 2.8rem;
   line-height: 1.2;
   font-weight: 700;
-  color: #272F7C;
+  color: #a000a0;
   letter-spacing: -0.025em;
   text-rendering: optimizeLegibility;
 }
@@ -486,7 +487,7 @@ blockquote i {
   display: block;
   font-size: 7rem;
   line-height: .8;
-  color: #272F7C;
+  color: #a000a0;
 }
 
 blockquote p {
@@ -553,8 +554,8 @@ blockquote cite span {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  background-color: #272F7C;
-  border: 2px solid #272F7C;
+  background-color: #a000a0;
+  border: 2px solid #a000a0;
   -webkit-transition: background-color .5s;
   -o-transition: background-color .5s;
   -moz-transition: background-color .5s;
@@ -587,11 +588,11 @@ blockquote cite span {
 }
 
 .no-touch .btn:hover span.btn-caption {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 .no-touch .btn:hover span.icon {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 @media only screen and (min-width: 768px) {
@@ -601,17 +602,17 @@ blockquote cite span {
 }
 
 .btn-light {
-  color: #272F7C;
+  color: #a000a0;
   background-color: #ffffff;
   border: 2px solid #ffffff;
 }
 
 .btn-light span.btn-caption {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 .btn-light span.icon {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 .no-touch .btn-light:hover {
@@ -647,11 +648,11 @@ blockquote cite span {
 }
 
 .no-touch .btn-outline-light:hover span.btn-caption {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 .no-touch .btn-outline-light:hover span.icon {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 /* ------------------------------------------------*/
@@ -771,7 +772,7 @@ blockquote cite span {
 }
 
 .form-dark input:focus, .form-dark textarea:focus {
-  border-bottom: 1px solid #272f7c;
+  border-bottom: 1px solid #a000a0;
 }
 
 .form-dark .inputs-description {
@@ -1016,12 +1017,12 @@ blockquote cite span {
 }
 
 .main-side-path {
-  fill: #272F7C;
+  fill: #a000a0;
 }
 
 .main-section {
   position: relative;
-  background-color: #272F7C;
+  background-color: #a000a0;
 }
 
 .main-section_background {
@@ -1046,7 +1047,7 @@ blockquote cite span {
   z-index: 0;
   width: 100%;
   max-height: 100%;
-  fill: #242D70;
+  fill: #c772c7;
 }
 
 .main-section_content {
@@ -1720,11 +1721,11 @@ ul.menu li.active::before {
 }
 
 ul.menu li.active a {
-  color: #272f7c;
+  color: #a000a0;
 }
 
 .no-touch ul.menu li:hover a {
-  color: #272f7c;
+  color: #a000a0;
 }
 
 @media only screen and (min-width: 1600px) {
@@ -1767,7 +1768,7 @@ ul.menu-socials li a {
 }
 
 .no-touch ul.menu-socials li:hover a {
-  color: #272f7c;
+  color: #a000a0;
 }
 
 @media only screen and (min-width: 1600px) {
@@ -1838,7 +1839,7 @@ ul.menu-socials li a {
 }
 
 .socials ul li a.mobile-dark {
-  color: #272F7C;
+  color: #a000a0;
 }
 
 .socials ul li a i {
@@ -2206,7 +2207,7 @@ ul.menu-socials li a {
 
 .popup-title .title {
   font: normal 700 2.8rem/1.2 "Pattaya", sans-serif;
-  color: #272f7c;
+  color: #a000a0;
 }
 
 .popup-title .divider {
@@ -3022,7 +3023,7 @@ ul.menu-socials li a {
     background: none;
   }
   .my-gallery figure figcaption::after {
-    background-color: #272F7C;
+    background-color: #a000a0;
   }
   .my-gallery figure figcaption h4 {
     color: #ffffff;
@@ -3076,5 +3077,5 @@ ul.menu-socials li a {
 .ui-grid-price {
   text-align: right;
   text-transform: none;
-  color: #272F7C;
+  color: #a000a0;
 }
